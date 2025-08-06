@@ -7,6 +7,8 @@ I like tinkering with open source projects, messing around with unity and diy el
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eff3ry&layout=donut&theme=ambient_gradient)
 <br>
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=effery&layout=compact&theme=ambient_gradient)](https://wakatime.com/@effery)
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=eff3ry&theme=ambient-gradient)](https://git.io/streak-stats)
 
 <!---
 eff3ry/eff3ry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
